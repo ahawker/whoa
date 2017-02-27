@@ -6,6 +6,7 @@
 """
 
 import pytest
+import whoa
 
 
 @pytest.mark.xfail()
