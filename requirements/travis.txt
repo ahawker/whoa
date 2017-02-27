@@ -1,0 +1,7 @@
+# whoa/requirements/travis.txt
+#
+# Requirements for executing this package test suite on Travis CI.
+
+-r tox.txt
+
+tox-travis
